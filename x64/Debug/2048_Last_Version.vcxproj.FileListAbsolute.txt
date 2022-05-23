@@ -1,0 +1,2 @@
+E:\VisualStudio\SDL Game\2048_Last_Version\x64\Debug\2048_Last_Version.exe
+E:\Study\GitHub\2048_SDL_game\x64\Debug\2048_Last_Version.exe
